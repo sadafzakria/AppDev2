@@ -12,8 +12,6 @@ Floating Action Button, Counter Application, Statefull Widget - setState()
 #### *main.dart
 Working with images,
 Changing from row -> column, column -> row
-## Week 4 
-#### *main.dart, test.dart 
 ## Week 5 
 #### *main.dart, test.dart 
 ## Week 6 
