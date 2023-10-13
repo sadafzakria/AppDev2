@@ -9,7 +9,9 @@ Access Modifiers, Named Constructors, Inheritance with Constructors, Anonymous F
 #### *main2.dart, 
 Floating Action Button, Counter Application, Statefull Widget - setState()
 ## Week 3 
-#### *main.dart, test.dart 
+#### *main.dart
+Working with images,
+Changing from row -> column, column -> row
 ## Week 4 
 #### *main.dart, test.dart 
 ## Week 5 
